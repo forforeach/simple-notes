@@ -1,0 +1,27 @@
+﻿.container-marg {
+    margin: 20px auto;
+}
+
+.table th.centered, .table td.centered {
+    text-align: center;
+}
+
+.done {
+    text-decoration: line-through;
+}
+
+.span6.page {
+    display: none;
+}
+
+.span6.active-page {
+    display: block;
+}
+
+.right-icon {
+    float: right;
+}
+
+.inline-header {
+    display: inline-block;
+}
